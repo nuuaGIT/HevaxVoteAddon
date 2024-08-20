@@ -1,0 +1,13 @@
+name: HevaxVoteAddon
+authors: [ nuua ]
+version: '0.0.1'
+main: de.nuua.hevaxVoteAddon.Main
+api-version: '1.21'
+commands:
+  ja:
+  nein:
+  votezeit:
+  votewetter:
+  votekick:
+  votemute:
+  voteban:
